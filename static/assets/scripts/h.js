@@ -166,14 +166,14 @@ document.addEventListener("DOMContentLoaded", (event) => {
 })
 // Splash texts
 const SplashT = [
-  "Over 8 Million Users since 2023",
-  "Fastest growing proxy server",
-  "Made by xBubbo",
-  "Check out discord.gg/interstellar :)",
+  "Email SPEEDBLOCKER77@outlook.com to talk",
+  "Fastest growing Local proxy server",
+  "Made by AngelFox47",
+  "New updates Coming Soon:)",
   "Thanks for using the site",
-  "Follow us on Tiktok (@useinterstellar)",
-  "Subscribe to us on YouTube (@unblocking)",
-  "Subscribe to my Youtube (@xbubbo)",
+  "Follow REXINGITTOTHEMAX for updates",
+  "Made by Angelfox47",
+  "Were Coming To Youtube Soon",
   "Check out the settings page",
   "Check out our Patreon (https://www.patreon.com/gointerstellar)",
 ]
